@@ -12,7 +12,7 @@ I build modern, accessible web experiences using clean design and pragmatic engi
 💬 Ask me about my expertise in *Front-End* ,*back-End* development, or if you have any questions, feel free to reach out.
 
 ### My Portfolio
-🚀 Check out some of my projects in my [Portfolio]((https://portfolio-three-inky-1ua6cm14y3.vercel.app/)).
+🚀 Check out some of my projects in my [Portfolio](https://portfolio-three-inky-1ua6cm14y3.vercel.app/).
 🚀 GitHub Profile [GitHub](https://github.com/IsamirMalik)
 
 ### My Experience
