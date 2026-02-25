@@ -12,11 +12,11 @@ I build modern, accessible web experiences using clean design and pragmatic engi
 💬 Ask me about my expertise in *Front-End* ,*back-End* development, or if you have any questions, feel free to reach out.
 
 ### My Portfolio
-🚀 Check out some of my projects in my [Portfolio](https://sameer-portfolio-lake.vercel.app/).
+🚀 Check out some of my projects in my [Portfolio](https://sameer-malik-portfolio.vercel.app/).
 🚀 GitHub Profile [GitHub](https://github.com/IsamirMalik)
 
 ### My Experience
-📄 Learn more about my professional journey here [resume]([https://drive.google.com/file/d/1AzsqdXuUc5UsaZlQDffaj6fM-9jOBCdX/view?usp=sharing]).
+📄 Learn more about my professional journey here [resume]([https://drive.google.com/file/d/1rLXIhLOP8zDVbgiDpnrlMYDVhgMs7oaM/view]).
 
 ### Get in Touch
 📧 You can reach me at *samirmalik591@gmail.com*. Feel free to drop me a message or collaborate on exciting projects.
@@ -43,10 +43,8 @@ Connect with me on [LinkedIn]([www.linkedin.com/in/sameer-malik-907076169]) ➡
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> 
-   <!-- <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" /> --!>
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/ChakraUI-319795?logo=chakraui&logoColor=white" alt="Chakra UI" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components" />
 </p>
 
@@ -65,7 +63,7 @@ Connect with me on [LinkedIn]([www.linkedin.com/in/sameer-malik-907076169]) ➡
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
-  <!-- <img src="https://img.shields.io/badge/Render-1A3D59?logo=render&logoColor=white" alt="Render" /> -->
+  <img src="https://img.shields.io/badge/Render-1A3D59?logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" />
 </p>
